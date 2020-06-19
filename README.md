@@ -12,7 +12,11 @@ To run this program follow:
 6. Your DB should be created
 7. In a new tab, type in http://localhost/HMS-Refactored/index.php
 
-Admin email: admin@gmail.com
-Admin password: admin
+Admin: admin@gmail.com; password: admin
+Nurse: nurse@gmail.com; password: nurse1@
+doctor: doctor@gmail.com; password: doctor1@
+pharmacist: pharm@gmail.com; password: pharm1@
+receptionist: recep@gmail.com; password: recep1@
+patient: alifarid62868@gmail.com; password: issifu1@
 
 
